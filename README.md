@@ -6,3 +6,9 @@ the important tech detail
 
 ## 3D genome 
   
+polar coordinates， Archimedes helix
+
+
+
+
+
